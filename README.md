@@ -1,0 +1,2 @@
+# techniworm.dev
+Static site
